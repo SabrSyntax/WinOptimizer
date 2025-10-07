@@ -1,0 +1,7 @@
+# Ignore temporary or backup files
+*.log
+*.tmp
+*.bak
+*.old
+Thumbs.db
+Desktop.ini
