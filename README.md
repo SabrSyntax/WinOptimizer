@@ -12,10 +12,10 @@
 - Prompts for restart after optimization  
 
 ### 🪟 How to Use
-1. Download `WinOptimizer.bat`
+1. Download [WinOptimizer.bat](https://github.com/SabrSyntax/WinOptimizer/raw/main/WinOptimizer.bat)
 2. Right-click → **Run as Administrator**
 3. Follow on-screen instructions  
-4. Restart your PC to apply all optimizations  
+4. Restart your PC to apply all optimizations 
 
 ### ⚡ Developer
 **Author:** Gumnaami  
